@@ -1,0 +1,90 @@
+publishDir: html
+baseURL: ""
+languageCode: zh-cn
+title: Tracepad
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableEmoji: true
+enableRobotsTXT: true
+
+hasCJKLanguage: true
+
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+  
+permalinks: #浏览器链接显示方式
+  post: "/:filename/"
+  # post: "/:year/:month/:day/:title/"
+
+defaultContentLanguage: ch
+defaultContentLanguageInSubdir: false
+
+languages:
+    ch:
+      languageName: "Chinese"
+
+params:
+  env: production
+  author: syt
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  label:
+    text: " "
+
+  homeInfoParams:
+    Title: Tracepad
+    Content: "让iPhone/iPad成为Mac的触控板<br/><br/>Make iPhone/iPad as a trackpad of Mac"
+
+  socialIcons:
+    - name: email
+      url: "mailto:dreamcontinue.cd@gmail.com"
+    - name: github
+      url: "https://github.com/syt2"
+
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    style: darcula
+  goldmark:
+    renderer:
+      unsafe: true
+outputs:
+    home:
+        - HTML
+        - JSON # is necessary

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Tracepad</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Tracepad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 03 Dec 2022 10:14:33 +0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tracepad</title>
+      <link>/tracepad-en/</link>
+      <pubDate>Sat, 03 Dec 2022 10:14:33 +0800</pubDate>
+      
+      <guid>/tracepad-en/</guid>
+      <description>Make iPhone/iPad as a trackpad of Mac.</description>
+    </item>
+    
+    <item>
+      <title>Tracepad</title>
+      <link>/tracepad/</link>
+      <pubDate>Sat, 03 Dec 2022 10:14:33 +0800</pubDate>
+      
+      <guid>/tracepad/</guid>
+      <description>让您的iPhone/iPad设备成为Mac电脑的触控板</description>
+    </item>
+    
+  </channel>
+</rss>
