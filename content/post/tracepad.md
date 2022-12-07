@@ -26,6 +26,8 @@ UseHugoToc: true
     hidden: false # only hide on current single page-->
 ---
 
+<img src="/icon.png" alt="Tracepad App Icon" width="65"/>
+
 ------------
 
 [中文, [English](../tracepad-en/)]

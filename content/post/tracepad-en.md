@@ -18,17 +18,14 @@ ShowPostNavLinks: false # 前一篇/后一篇的导航
 ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: false
-<!--cover:
-    image: "../DSC01081.JPG" # image path/url, should put in static folder
-    alt: "Tracepad App Icon" # alt text
-    caption: "Tracepad App Icon" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page-->
 ---
 
-------------
+<img src="/icon.png" alt="Tracepad App Icon" width="65"/>
+
+-----------
 
 [[中文](../tracepad/), English]
+
 
 
 ## Download
