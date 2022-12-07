@@ -32,7 +32,7 @@ UseHugoToc: true
 
 
 ## 下载
-- **<a href="/Tracepad.app" download><span style="color: orange">Mac</span></a>**
+- **<a href="/Tracepad.zip" download><span style="color: orange">Mac</span></a>**
 
 - **<a href="https://apps.apple.com/app/id1111"><span style="color: orange">iPhone/iPad</span></a>**
 
