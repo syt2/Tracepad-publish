@@ -53,13 +53,20 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  
+  assets:
+    favicon: "/icon.png"
+    favicon16x16: "/icon.png"
+    favicon32x32: "/icon.png"
+    apple_touch_icon: "/icon.png"
+    safari_pinned_tab: "/icon.png"
 
   label:
     text: " "
 
   homeInfoParams:
-    Title: Tracepad
-    Content: "让iPhone/iPad成为Mac的触控板<br/><br/>Make iPhone/iPad as a trackpad of Mac"
+    Title: "Tracepad<br/><br/><img src=\"/icon.png\" alt=\"Tracepad App Icon\" width=\"65\"/>"
+    Content: "<br/>让iPhone/iPad成为Mac的触控板<br/><br/>Make iPhone/iPad as a trackpad of Mac"
 
   socialIcons:
     - name: email
