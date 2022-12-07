@@ -9,7 +9,7 @@ hidemeta: true # 标题下的信息
 comments: false 
 description: "Make iPhone/iPad as a trackpad of Mac."
 disableHLJS: true
-disableShare: false # 下饭分享面板
+disableShare: false # 下面分享面板
 hideSummary: false # home内隐藏摘要
 searchHidden: false # 搜索时隐藏本文
 ShowReadingTime: false  
@@ -30,8 +30,9 @@ UseHugoToc: false
 
 [[中文](../tracepad/), English]
 
+
 ## Download
-- **<a href="/Tracepad-OSX 1.0.0.test.zip" download><span style="color: orange">Mac</span></a>**
+- **<a href="/Tracepad.app" download><span style="color: orange">Mac</span></a>**
 
 - **<a href="https://apps.apple.com/app/id1111"><span style="color: orange">iPhone/iPad</span></a>**
 

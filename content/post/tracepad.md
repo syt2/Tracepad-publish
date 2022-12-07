@@ -7,9 +7,9 @@ showToc: false # 目录
 TocOpen: false
 hidemeta: true # 标题下的信息
 comments: false 
-description: "让您的iPhone/iPad设备成为Mac电脑的触控板"
+description: "让iPhone/iPad成为Mac的触控板"
 disableHLJS: true
-disableShare: false # 下饭分享面板
+disableShare: false # 下面分享面板
 hideSummary: false # home内隐藏摘要
 searchHidden: false # 搜索时隐藏本文
 ShowReadingTime: false  
@@ -32,7 +32,7 @@ UseHugoToc: true
 
 
 ## 下载
-- **<a href="/Tracepad-OSX 1.0.0.test.zip" download><span style="color: orange">Mac</span></a>**
+- **<a href="/Tracepad.app" download><span style="color: orange">Mac</span></a>**
 
 - **<a href="https://apps.apple.com/app/id1111"><span style="color: orange">iPhone/iPad</span></a>**
 
