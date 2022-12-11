@@ -48,7 +48,11 @@ UseHugoToc: true
 3. 尽情使用吧
 
 
-## FAQ
+## 隐私政策
+
+### Tracepad不会收集您的任何隐私信息，请放心使用
+
+## 常见问题
 
 ### 使用有线方式连接后仍旧无法使用
 - 如果您的APP不是最新的，请将双端APP更新到最新版本
@@ -72,8 +76,6 @@ UseHugoToc: true
 
 #### 如果以上方法均无法解决您遇到的问题，您可以在iPhone/iPad端App的设置内联系我
 
-
-### Tracepad不会收集您的任何隐私信息，请放心使用
 
 <!--
 ### 为什么在Mac App Store无法找到Tracepad

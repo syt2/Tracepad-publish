@@ -42,6 +42,10 @@ UseHugoToc: false
     - Wired method (recommended): use **cable** to connect your iPhone/iPad and Mac, this method will achieve a more stable experience
 3. Enjoy it
 
+## Privacy Policy
+
+### Tracepad will never collect your private information, feel free to use it
+
 
 ## FAQ
 
@@ -68,4 +72,3 @@ UseHugoToc: false
 #### If above methods can't solve your issues, please contact me for help
 
 
-### Tracepad will never collect your private information, feel free to use it
