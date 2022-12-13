@@ -67,7 +67,7 @@ UseHugoToc: false
 - Modify system preferences to allow APP installation from any source, you can set it in `Settings->Security and Privacy->General`
 
 ### Some gestures can't be recognized
-- To use 4 fingers gestures on iPad, disable system multitasking gestures in Settings
+- To use 4 fingers gestures on iPad, you need disable system multitasking gestures in Settings, you can set it in `Settings->Home Screen and Dock->Multitasking->Gestures`
 
 #### If above methods can't solve your issues, please contact me for help
 
