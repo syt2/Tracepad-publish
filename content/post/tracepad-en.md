@@ -28,19 +28,18 @@ UseHugoToc: false
 
 
 
-## Download
-- **<a href="/Tracepad 1.0.dmg" download><span style="color: orange">Mac</span></a>**
+## Download Tracepad 1.1
+- **<a href="/Tracepad 1.1.dmg" download><span style="color: orange">Mac</span></a>**
 
 - **<a href="https://apps.apple.com/app/id1658454999"><span style="color: orange">iPhone/iPad</span></a>**
 
 
 ## Getting Started
 
-1. Download and open Tracepad on both your iPhone/iPad and Mac, remeber to **grant corresponding permissions**. 
-2. Pair your iPhone/iPad and Mac devices in the following one of two methods
-    - Wireless method: Turn on **Bluetooth/WIFI** on both devices, Tracepad will discover and connect automatically
+1. Download and open Tracepad on both your iPhone/iPad and Mac, remember to **grant permissions** when permission dialog prompted.
+2. Pair your iPhone/iPad and Mac devices in one of following methods
+    - Wireless method: Turn on **Bluetooth** or **WIFI** on both devices, Tracepad will discover and connect automatically
     - Wired method (recommended): use **cable** to connect your iPhone/iPad and Mac, this method will achieve a more stable experience
-3. Enjoy it
 
 ## Privacy Policy
 
@@ -49,25 +48,27 @@ UseHugoToc: false
 
 ## FAQ
 
-### Not work when cable is connected
-- Update both Apps to the latest version
-- Relaunch both Apps
-- Replace your cable
-- Replace to another USB/Type-C port
+### Unable to establish connection with Mac
+- **Restart** both Mac and iPhone/iPad APPs
+- **Update** both APPs to the latest version
+- Confirm that you have **granted accessibility permissions** on your Mac, you can check it in `Settings->Security and Privacy->Privacy->Accessibility`
+- If you are using Bluetooth/WiFi to establish connection, please confirm that both devices have turned on Bluetooth/WiFi. Or try to connect with a cable
+- If you are using a cable to establish connection, please try to replace the inserted USB/Type-C port, or replace another cable
 
-### Not work when wireless connection shows connected on Mac App 
-- Update both Apps to the latest version
-- Relaunch both Apps
-- Make sure you have granted accessibility permissions on your Mac, you can check it in  `Settings->Security and Privacy->Privacy->Accessibility`
+### Mouse movement not smooth
+- Use cable to establish connection with Mac
+- Turn off bluetooth and only use WiFi to establish connection
+- Turn off WiFi and only use bluetooth to establish connection
+- Turn on both bluetooth and WiFi to establish connection
 
 
-### Can't install Tracepad on Mac
+### Unable to recognize 4 finger gestures
+- If you need to use 4 finger gestures on iPad, you must turn off multitasking gestures in the system settings, you can check it in `Settings->Home Screen and Dock->Multitasking->Gestures` 
+
+### Unable to install Tracepad on Mac
 - Right click on Tracepad to open it
-- Holding down the `control` key, click to open Tracepad again
+- Holding down the control key and click to open Tracepad
 - Modify system preferences to allow APP installation from any source, you can set it in `Settings->Security and Privacy->General`
-
-### Some gestures can't be recognized
-- To use 4 fingers gestures on iPad, you need disable system multitasking gestures in Settings, you can set it in `Settings->Home Screen and Dock->Multitasking->Gestures`
 
 #### If above methods can't solve your issues, please contact me for help
 

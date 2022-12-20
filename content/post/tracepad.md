@@ -33,19 +33,18 @@ UseHugoToc: true
 [中文, [English](../tracepad-en/)]
 
 
-## 下载
-- **<a href="/Tracepad 1.0.dmg" download><span style="color: orange">Mac</span></a>**
+## Tracepad 1.1 下载
+- **<a href="/Tracepad 1.1.dmg" download><span style="color: orange">Mac</span></a>**
 
 - **<a href="https://apps.apple.com/app/id1658454999"><span style="color: orange">iPhone/iPad</span></a>**
 
 
 ## 开始使用
 
-1. 在您的iPhone/iPad端与Mac端下载并打开Tracepad APP，并**授予相应权限**
+1. 在您的iPhone/iPad端与Mac端下载并打开Tracepad APP，并在权限弹窗弹出时**授予相应权限**
 2. 配对您的iPhone/iPad与Mac设备，您可以通过以下两种方式进行配对
-    - 无线方式：打开设备上的**蓝牙/WIFI**，Tracepad会自动发现对方并连接
+    - 无线方式：打开设备上的**蓝牙**或**WIFI**，Tracepad会自动发现对方并建立连接
     - 有线方式（推荐）：使用**数据线**连接您的iPhone/iPad与Mac设备，此种方式将获得更稳定的使用体验
-3. 尽情使用吧
 
 
 ## 隐私政策
@@ -54,30 +53,25 @@ UseHugoToc: true
 
 ## 常见问题
 
-### 使用有线方式连接后仍旧无法使用
-- 如果您的APP不是最新的，请将双端APP更新到最新版本
-- 双端重启APP
-- 更换数据线
-- 更换插入的USB/Type-C口
+### 无法与Mac建立连接
+- **重启**Mac端和iPhone/iPad端APP
+- 将双端APP**更新**到最新版本
+- 确认您已在Mac上授予了Tracepad**辅助功能权限**，您可以前往 `设置->隐私与安全性->隐私->辅助功能` 中设置
+- 若您正在使用蓝牙/WiFi方式建立连接，请确认双端均已打开蓝牙或WiFi。或者尝试以数据线方式连接
+- 若您正在使用数据线方式建立连接，请尝试更换插入的USB/Type-C口或更换数据线
 
-### Mac端显示无线已连接，却仍旧无法使用
-- 如果您的APP不是最新的，请将双端APP更新到最新版本
-- 双端重启APP
-- 确认您在Mac上授予Tracepad辅助功能权限，您可以前往 `设置->安全性与隐私->隐私->辅助功能` 中进行查看
-
+### Mac端鼠标移动不流畅
+- 更换连接方式为使用数据线连接
+- 尝试关闭蓝牙，只使用WiFi进行连接
+- 尝试关闭WiFi，只使用蓝牙进行连接
+- 尝试同时使用蓝牙和WiFi进行连接
 
 ### Mac端无法安装Tracepad
-- 右键点击Tracepad图标后打开
-- 按住 `control` 后，再次点击Tracepad图标
-- 修改系统偏好设置，允许从任何来源安装APP，您可以前往 `设置->安全性与隐私->通用` 中进行设置
+- 尝试右键点击Tracepad图标后打开
+- 按住 `control` 键后，再次点击Tracepad图标打开
+- 修改系统偏好设置，允许从任何来源安装APP，您可以前往 `设置->安全性与隐私->通用` 中设置
 
-### 部分手势无法识别
-- 如果您需要在iPad设备上使用4指手势，请在iPad设备上关闭系统多任务手势，您可以前往 `设置->主屏幕与程序坞->多任务->手势` 中进行设置
+### 在iPad上四指手势无法识别
+- iPad上四指手势与系统多任务手势冲突，您必须在系统设置内关闭多任务手势，您可以前往 `设置->主屏幕与程序坞->多任务->手势` 中设置
 
-#### 如果以上方法均无法解决您遇到的问题，您可以在iPhone/iPad端App的设置内联系我
-
-
-<!--
-### 为什么在Mac App Store无法找到Tracepad
-由于Tracepad在使用有线方式连接时，需要读取USB接口传输的数据，然而该权限为私有权限，故无法通过Mac Store上架。
--->
+#### 如果以上方法均无法解决您遇到的问题，请在APP的设置内联系我
