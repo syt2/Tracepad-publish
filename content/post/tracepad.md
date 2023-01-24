@@ -33,10 +33,12 @@ UseHugoToc: true
 [中文, [English](../tracepad-en/)]
 
 
-## 下载
-- **<a href="/Tracepad 1.2.3.dmg" download><span style="color: orange">Mac</span></a>**
-
-- **<a href="https://apps.apple.com/app/id1658454999"><span style="color: orange">iPhone/iPad</span></a>**
+# 下载 
+- **Mac**
+    - **<a href="/Tracepad 1.3.dmg" download><span style="color: orange">安装完整版</span></a>**【推荐】
+    - **<a href="https://apps.apple.com/app/id1665418821"><span style="color: orange">从App Store安装Lite版</span></a>**【因App Store审核要求，该版本<span style="color: red">不支持数据线连接</span>】
+- **iPhone/iPad**
+    - **<a href="https://apps.apple.com/app/id1658454999"><span style="color: orange">从App Store安装</span></a>**
 
 
 ## 开始使用
@@ -62,6 +64,7 @@ UseHugoToc: true
 
 ### Mac端鼠标移动不流畅
 - 更换连接方式为使用数据线连接
+- 关闭VPN
 - 尝试关闭蓝牙，只使用WiFi进行连接
 - 尝试关闭WiFi，只使用蓝牙进行连接
 - 尝试同时使用蓝牙和WiFi进行连接
@@ -74,4 +77,4 @@ UseHugoToc: true
 ### 在iPad上四指手势无法识别
 - iPad上四指手势与系统多任务手势冲突，您必须在系统设置内关闭多任务手势，您可以前往 `设置->主屏幕与程序坞->多任务->手势` 中设置
 
-#### 如果以上方法均无法解决您遇到的问题，请在APP的设置内联系我
+#### 如果以上方法均无法解决您遇到的问题，请联系我
