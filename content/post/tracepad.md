@@ -35,18 +35,18 @@ UseHugoToc: true
 
 # 下载 
 - **Mac**
-    - **<a href="/Tracepad 1.4.dmg" download><span style="color: orange">安装完整版</span></a>**【推荐】
+    - **<a href="/Tracepad 1.7.1.dmg" download><span style="color: orange">安装完整版</span></a>**【推荐】
     - **<a href="https://apps.apple.com/app/id1665418821"><span style="color: orange">从App Store安装Lite版</span></a>**【因App Store审核要求，该版本<span style="color: red">不支持有线连接</span>】
 - **iPhone/iPad**
     - **<a href="https://apps.apple.com/app/id1658454999"><span style="color: orange">从App Store安装</span></a>**
 
 
-## 开始使用
+## 使用指南
 
 1. 在您的iPhone/iPad端与Mac端下载并打开Tracepad APP，并在权限弹窗弹出时**授予相应权限**
 2. 配对您的iPhone/iPad与Mac设备，您可以通过以下两种方式进行配对
-    - 无线方式：Tracepad会通过本地网络自动发现对方并建立连接
-    - 有线方式（推荐）：使用**数据线**连接您的iPhone/iPad与Mac设备，此种方式将获得更稳定的使用体验
+    - 无线方式：Tracepad会通过蓝牙或本地网络自动发现对方并建立连接。
+    - 有线方式【推荐】：使用**数据线**连接您的iPhone/iPad与Mac设备，此种方式将获得更稳定的使用体验
 
 
 ## 隐私政策

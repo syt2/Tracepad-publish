@@ -30,7 +30,7 @@ UseHugoToc: false
 
 # Download
 - **Mac**
-    - **<a href="/Tracepad 1.4.dmg" download><span style="color: orange">Install Full Version</span></a>**【Recommend】
+    - **<a href="/Tracepad 1.7.1.dmg" download><span style="color: orange">Install Full Version</span></a>**【Recommend】
     - **<a href="https://apps.apple.com/app/id1665418821"><span style="color: orange">Install Lite Version from App Store</span></a>**【This version <span style="color: red">does not support wired connection</span> due to App Store review policy】
 - **iPhone/iPad**
     - **<a href="https://apps.apple.com/app/id1658454999"><span style="color: orange">Install from App Store</span></a>**
@@ -38,10 +38,10 @@ UseHugoToc: false
 
 ## Getting Started
 
-1. Download and open the Tracepad app on your iPhone/iPad and Mac devices, and **grant the necessary permissions** when prompted.
-2. Pair your iPhone/iPad and Mac devices, which can be done in two ways:
-    - Wireless: Tracepad will automatically discover and connect to each other over local network.
-    - Wired (Recommended): Connect your iPhone/iPad and Mac devices using a data cable for a more stable experience.
+1. Download and open the Tracepad app on your iPhone/iPad and Mac, and **grant the necessary permissions** when prompted.
+2. Pair your iPhone/iPad and Mac device, which can be done in two ways:
+    - Wireless: Tracepad will automatically discover the other device through Bluetooth or Local Network and establish a connection.
+    - Cable【Recommended】: Connect your iPhone/iPad and Mac devices using a data cable for a more stable experience.
 
 ## Privacy Policy
 
